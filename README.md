@@ -88,7 +88,7 @@ Creates a new HeroPower association with validations.
 ###  Testing With Postman
 
 Use the provided file:
-'''pgsql
+'''bash
 challenge-2-superheroes.postman_collection.json
 
    1. Open Postman
